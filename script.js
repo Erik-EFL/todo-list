@@ -102,7 +102,6 @@ function removeSelectedItem() {
 }
 
 /* Click */
-
 limpar.addEventListener('click', limparLista);
 clearFinish.addEventListener('click', FinishClear);
 button.addEventListener('click', criar);
